@@ -1,0 +1,147 @@
+﻿const flights = [
+  {
+    flightNumber: '2005',
+    carrier: 'UA',
+    origin: 'IAH',
+    departure: '2018-01-31',
+    destination: 'ORD',
+    arrival: '2018-01-31',
+    aircraft: 'Airbus A320',
+    distance: 925,
+    travelTime: '02:47',
+    status: 'Arrived at Gate'
+  },
+  {
+    flightNumber: '0638',
+    carrier: 'UA',
+    origin: 'IAH',
+    departure: '2018-01-31',
+    destination: 'ORD',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-900',
+    distance: 925,
+    travelTime: '02:33',
+    status: 'Arrived at Gate'
+  },
+  {
+    flightNumber: '1160',
+    carrier: 'UA',
+    origin: 'IAH',
+    departure: '2018-01-31',
+    destination: 'ORD',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-800',
+    distance: 925,
+    travelTime: '02:41',
+    status: 'Arrived at Gate'
+  },
+  {
+    flightNumber: '1256',
+    carrier: 'UA',
+    origin: 'IAH',
+    departure: '2018-01-31',
+    destination: 'ORD',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-800',
+    distance: 925,
+    travelTime: '02:41',
+    status: 'On Time'
+  },
+  {
+    flightNumber: '2153',
+    carrier: 'UA',
+    origin: 'IAH',
+    departure: '2018-01-31',
+    destination: 'ORD',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-800',
+    distance: 925,
+    travelTime: '02:47',
+    status: 'On Time'
+  },
+  {
+    flightNumber: '2155',
+    carrier: 'UA',
+    origin: 'IAH',
+    departure: '2018-01-31',
+    destination: 'ORD',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-900',
+    distance: 925,
+    travelTime: '02:39',
+    status: 'On Time'
+  },
+  {
+    flightNumber: '2131',
+    carrier: 'UA',
+    origin: 'IAH',
+    departure: '2018-01-31',
+    destination: 'ORD',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-900',
+    distance: 925,
+    travelTime: '02:31',
+    status: 'On Time'
+  },
+  {
+    flightNumber: '2043',
+    carrier: 'UA',
+    origin: 'ORD',
+    departure: '2018-01-31',
+    destination: 'IAH',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-800',
+    distance: 925,
+    travelTime: '02:34',
+    status: 'Arrived at Gate'
+  },
+  {
+    flightNumber: '0748',
+    carrier: 'UA',
+    origin: 'ORD',
+    departure: '2018-01-31',
+    destination: 'IAH',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-900',
+    distance: 925,
+    travelTime: '02:34',
+    status: 'Arrived at Gate'
+  },
+  {
+    flightNumber: '2166',
+    carrier: 'UA',
+    origin: 'ORD',
+    departure: '2018-01-31',
+    destination: 'IAH',
+    arrival: '2018-01-31',
+    aircraft: 'Airbus A320',
+    distance: 925,
+    travelTime: '02:34',
+    status: 'Arrived at Gate'
+  },
+  {
+    flightNumber: '2171',
+    carrier: 'UA',
+    origin: 'ORD',
+    departure: '2018-01-31',
+    destination: 'IAH',
+    arrival: '2018-01-31',
+    aircraft: 'Airbus A320',
+    distance: 925,
+    travelTime: '02:39',
+    status: 'On Time'
+  },
+  {
+    flightNumber: '1128',
+    carrier: 'UA',
+    origin: 'ORD',
+    departure: '2018-01-31',
+    destination: 'IAH',
+    arrival: '2018-01-31',
+    aircraft: 'Boeing 737-800',
+    distance: 925,
+    travelTime: '02:41',
+    status: 'On Time'
+  }
+];
+module.exports = flights;
